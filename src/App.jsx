@@ -1,9 +1,9 @@
 import React from 'react'
-import nav from './assets/nav'
+import Bar from './assets/bar'
 function App() {
   return (
     <>
-      <nav/>
+      <Bar/>
     </>
   )
 }
